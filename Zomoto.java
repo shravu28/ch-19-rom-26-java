@@ -191,8 +191,11 @@ else if (foodName == "Akki Roti") {
 }
 else 
 System.out.println(foodName+ "Food name is found");
+System.out.println( "Test");
+
 
 return price;
 
 }
 }
+
